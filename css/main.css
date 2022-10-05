@@ -68,3 +68,13 @@ ul.posts li {
     text-shadow:
       .25em 0 0 white,
       .5em 0 0 white;}}
+
+.row {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.block {
+  width: 100px;
+}

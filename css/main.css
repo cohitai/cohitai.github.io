@@ -85,3 +85,17 @@ ul.posts li {
   margin-right: auto;
   width: 50%;
 }
+
+
+.main-container {
+  background-color: #c0c7df;
+  padding-top: 10px;
+  border-radius: 10px;
+  font-size: 130%;
+}
+
+.navbar-custom {
+  background-color: #168877;
+  border-color: #c0c7df;
+}
+

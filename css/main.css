@@ -99,7 +99,17 @@ ul.posts li {
   border-color: #c0c7df;
 }
 
-.navbar-btn {
+.navbar-nav .navbar-btn {
   height: 100%;
   color: #C0D6DF;
+}
+
+.navbar-nav .navbar-btn:hover {
+  background-color: #C0D6DF;
+  color: #4F6D7A;
+}
+
+.navbar-btn {
+  height: 100%;
+  color: #f3f7f9;
 }
